@@ -1,6 +1,6 @@
-const GITHUB_AUTH_TOKEN = "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"
+const GITHUB_AUTH_TOKEN = "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"
 const BOT_NUMBER = "923251039272"
-const SESSION_ID = "W7IDyCjY#S7AsMCJpda1bTXjiZs6EB7XaqPtEiSlCR21cRzish-8"
+const SESSION_ID = "PRABATH-MD~vM8XDQBS#BkrlLRzJnWUHanSgpIPl9tjJ6B2SFhr5bSrzxTPDHj8"
 
 
 module.exports = {
